@@ -9,3 +9,6 @@
 
 - [2 Signaling Human Intentions to Service Robots](2/README.md)  
   *Understanding the Use of Social Cues during In-Person Conversations*
+
+- [3 Make Interaction Situated](3/README.md)  
+  *Designing User Acceptable Interaction for Situated Visualization in Public Environments*
