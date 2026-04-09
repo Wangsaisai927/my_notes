@@ -12,3 +12,6 @@
 
 - [3 Make Interaction Situated](3/README.md)  
   *Designing User Acceptable Interaction for Situated Visualization in Public Environments*
+
+- [4 LLMR](4/README.md)  
+  *Real-time Prompting of Interactive Worlds using Large Language Models*
