@@ -21,6 +21,8 @@
 
 - [6 文献阅读_1](6/README.md)  
   *From Street to Simulator: Assessing Cyclist Movement Consistency Between Virtual and Real-World Environments*
+
   *I Can’t Turn My Brain Off: Exploring Conversational AI for Self-Critical Thoughts in VR*
+  
   *OHMNI: Hand-Tracked XR Circuit Prototyping with Integrated SPICE Simulation*
 
