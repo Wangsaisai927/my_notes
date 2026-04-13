@@ -1,6 +1,6 @@
 # 我的学习笔记
 
-这里整理我阅读朱倩老师学习材料的笔记。
+这里整理我跟着朱倩老师学习HCI的笔记。
 
 ## 目录
 
@@ -17,4 +17,10 @@
   *Real-time Prompting of Interactive Worlds using Large Language Models*
 
 - [5 VisionClaw](5/README.md)  
-  *A real-time AI assistant for Meta Ray-Ban smart glasses. See what you see, hear what you say, and take actions on your behalf -- all through voice.*
+  *A real-time AI assistant for Meta Ray-Ban smart glasses. See what you see, hear what you say, and take actions on your behalf -- all through voice*
+
+- [6 文献阅读_1](6/README.md)  
+  *From Street to Simulator: Assessing Cyclist Movement Consistency Between Virtual and Real-World Environments*
+  *I Can’t Turn My Brain Off: Exploring Conversational AI for Self-Critical Thoughts in VR*
+  *OHMNI: Hand-Tracked XR Circuit Prototyping with Integrated SPICE Simulation*
+
