@@ -26,3 +26,5 @@
   
   *OHMNI: Hand-Tracked XR Circuit Prototyping with Integrated SPICE Simulation*
 
+- [7 Objestures](7/README.md)  
+  *Objestures: Everyday Objects Meet Mid-Air Gestures for Expressive Interaction*
