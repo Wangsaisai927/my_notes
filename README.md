@@ -28,3 +28,8 @@
 
 - [7 Objestures](7/README.md)  
   *Objestures: Everyday Objects Meet Mid-Air Gestures for Expressive Interaction*
+
+- [8 Unbounded和葬礼？](8/README.md)  
+  *Unbounded: Object-Boundary Interactions in Mixed Reality*
+
+  *Designing Virtual Funerals as a Design Fiction: A Film-Based Exploration of Near-Future Memorial Rituals*
