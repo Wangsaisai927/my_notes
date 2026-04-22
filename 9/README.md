@@ -55,7 +55,7 @@ traditional desktop applications就是用户坐着分析，交互设备主要鼠
 ### Augmented Situated Visualization for Spatial and Context-Aware Decision-Making
 用AR把数据直接叠加到真实空间中，帮助人做决策，进一个教室选座位要有好多考虑因素：温度/视野/WiFi/插座/是否拥挤/是否无障碍。
 
-a图说空气怎么流动/b图说人怎么走/c是座位的特殊属性。
+a图说空气怎么流动/b图说人怎么走/c图是座位的特殊属性。
 
 ![图六](文章_5插图.png)
 
