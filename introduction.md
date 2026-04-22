@@ -33,3 +33,26 @@
   *Unbounded: Object-Boundary Interactions in Mixed Reality*
 
   *Designing Virtual Funerals as a Design Fiction: A Film-Based Exploration of Near-Future Memorial Rituals*
+
+- [9 文献阅读_2](9/README.md)  
+  *What’s the Situation with Situated Visualization? A Survey and Perspectives on Situatedness*
+
+  *Ubiquitous Analytics: Interacting with Big Data Anywhere*
+
+  *Grand Challenges in Immersive Analytics*
+
+  *Situated Analytics: Demonstrating immersive analytical tools with Augmented Reality*
+
+  *Smart Vidente: advances in mobile augmented reality for interactive visualization of underground infrastructure*
+
+  *iteLens: Situated Visualization Techniques for Urban Site Visits*
+
+  *Duopography: Using Back-of-Device Multi-Touch Input to Manipulate Spatial Data on Mobile Tangible Interactive Topography*
+
+  *Augmented Situated Visualization for Spatial and Context-Aware Decision-Making*
+
+  *Augmented situated visualization methods towards electromagnetic compatibility testing*
+
+  *Designing for the Situated and Public Visualization of Urban Data*
+
+  *Street Infographics: Raising Awareness of Local Issues through a Situated Urban Visualization*
